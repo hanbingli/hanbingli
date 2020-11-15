@@ -20,4 +20,4 @@
 
 <h3>:wink: Oh, by the way,  ⚡ Fun fact ＼(＠＾０＾＠)/ </h3>
 
-<img align="center" src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkn4neau4ij318w0u0gya.jpg" />
+<img align="center" src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkq8at40lej318w0u0gya.jpg" />
