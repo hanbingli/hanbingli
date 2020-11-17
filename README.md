@@ -18,6 +18,7 @@
 - 🔧 &nbsp;  Git
 
 
-<h3>:wink: Oh, by the way,  ⚡ Fun fact ＼(＠＾０＾＠)/ </h3>
+<h3>:wink: Oh, by the way,  ⚡ Fun fact </h3>
+<p>a fan of One Piece  ＼(＠＾０＾＠)/ </p>
 
 <img align="center" src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkq8at40lej318w0u0gya.jpg" />
